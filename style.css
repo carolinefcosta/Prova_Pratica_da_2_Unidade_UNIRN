@@ -1,0 +1,10 @@
+.card {
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
