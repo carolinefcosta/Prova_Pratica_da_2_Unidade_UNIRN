@@ -11,6 +11,10 @@
     padding: 40px;
 }
 
+.promo {
+    position: absolute;
+}
+
 img {
     width: 120px;
     height: 120px;
