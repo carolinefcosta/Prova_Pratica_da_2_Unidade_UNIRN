@@ -1,10 +1,14 @@
 .produtos {
     display: flex;
+    max-width: 320px;
+    margin: 300px 500px;
+    
 }
 
 .card {
     display: flex;
     justify-content: space-between;
+    padding: 40px;
 }
 
 img {
