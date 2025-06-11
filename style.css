@@ -16,3 +16,11 @@ img {
     height: 120px;
     border-radius: 50%;
 }
+
+button:hover {
+    background-color: plum;
+}
+
+button:focus {
+    background-color: purple;
+}
